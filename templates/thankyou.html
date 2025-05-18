@@ -1,0 +1,49 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Thank You</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            margin: 0;
+        }
+
+        .thank-you-container {
+            background-color: #fff;
+            padding: 30px;
+            border-radius: 5px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            text-align: center;
+        }
+
+        .thank-you-container h2 {
+            color: #333;
+        }
+
+        .thank-you-container p {
+            color: #666;
+        }
+
+        .thank-you-container a {
+            text-decoration: none;
+            color: #0066cc;
+        }
+
+        .thank-you-container a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <h2>Thank you for registering, {{ name }}!</h2>
+    <a href="{{ url_for('index') }}"> <br>Go back to registration page</br></a>
+</body>
+</html>
