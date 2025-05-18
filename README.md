@@ -3,7 +3,7 @@
 This project is a web-based **User Registration System** built using **Flask (Python)** for the backend and **MongoDB** for data storage. It includes a responsive HTML form, JavaScript-based validation, and data persistence using a MongoDB collection. Ideal for learning full-stack form handling and Python web development.
 
 
-## 📌 Table of Contents
+##  Table of Contents
 
 - [Overview](#overview)
 - [Technologies Used](#technologies-used)
@@ -17,7 +17,7 @@ This project is a web-based **User Registration System** built using **Flask (Py
 - [License](#license)
 ---
 
-## 📖 Overview
+## Overview
 
 The goal of this project is to provide a user-friendly interface for user registration and securely store the collected data in MongoDB. It features:
 
@@ -28,7 +28,7 @@ The goal of this project is to provide a user-friendly interface for user regist
 
 ---
 
-## 🧰 Technologies Used
+##  Technologies Used
 
 | Area        | Technology         |
 |-------------|--------------------|
@@ -39,7 +39,7 @@ The goal of this project is to provide a user-friendly interface for user regist
 
 ---
 
-## ✨ Features
+##  Features
 
 - Clean and modern user registration form
 - Real-time validation using JavaScript
@@ -49,7 +49,7 @@ The goal of this project is to provide a user-friendly interface for user regist
 
 ---
 
-## 🚀 Installation and Setup
+##  Installation and Setup
 
 ### 1. Clone the Repository
 
@@ -82,7 +82,7 @@ Then open your browser and visit:
 [http://localhost:5000](http://localhost:5000)
 
 
-## 🗂️ Project Structure
+##  Project Structure
 
 
 Registration-Form/
@@ -104,7 +104,7 @@ Registration-Form/
 
 ---
 
-## ✅ Form Validations
+##  Form Validations
 
 ### Client-Side (JavaScript)
 
@@ -122,7 +122,7 @@ Registration-Form/
 
 ---
 
-## 🖼️ Screenshots
+##  Screenshots
 
 > 
 ### Registration Form
@@ -135,7 +135,7 @@ Registration-Form/
 ![Mongo db Page](screenshots/mongodb.png)
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 * Encrypt passwords using `bcrypt`
 * Add login system
@@ -144,7 +144,7 @@ Registration-Form/
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 * **Name**: Komal Zoting
 * **GitHub**: [github.com/Komal994](https://github.com/Komal994)
