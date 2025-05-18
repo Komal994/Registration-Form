@@ -14,7 +14,7 @@ This project is a web-based **User Registration System** built using **Flask (Py
 - [Screenshots](#screenshots)
 - [Future Improvements](#future-improvements)
 - [Author](#author)
-- [License](#license)
+
 ---
 
 ## Overview
